@@ -4,10 +4,10 @@
 
 **Quick links:**
 
-- [LinkedIn](https://www.linkedin.com/in/yousuf-ahmed-840219256/)
-- [Resume](#resume)
-- [Projects](#projects)
-- [Contact](#contact-me)
+- 🔗[LinkedIn](https://www.linkedin.com/in/yousuf-ahmed-840219256/)
+- 🔗[Resume](#resume)
+- 🔗[Projects](#projects)
+- 🔗[Contact](#contact-me)
 
 ---
 
@@ -34,11 +34,11 @@ I’m currently a senior studying Computer Science at Queens College. I am inter
 
 ## Projects
 
-- [**Osu Retry Spammer**](https://github.com/Yahmed99/osu-retry-spammer) — A desktop automation tool with a user-friendly interface that monitors performance in a rhythm game ([osu!](https://github.com/ppy/osu)) and automatically restarts attempts based on user-defined accuracy and error thresholds.  
+- 🔗[**Osu Retry Spammer**](https://github.com/Yahmed99/osu-retry-spammer) — A desktop automation tool with a user-friendly interface that monitors performance in a rhythm game ([osu!](https://github.com/ppy/osu)) and automatically restarts attempts based on user-defined accuracy and error thresholds.  
 
-- [**Drone Trajectory Planner**](https://github.com/Yahmed99/oa-drone-trajectory-mar-2025) — A Python-based drone flight planning system that models cameras, calculates efficient flight paths, and visualizes coverage to optimize image quality and mapping performance.  
+- 🔗[**Drone Trajectory Planner**](https://github.com/Yahmed99/oa-drone-trajectory-mar-2025) — A Python-based drone flight planning system that models cameras, calculates efficient flight paths, and visualizes coverage to optimize image quality and mapping performance.  
 
-- [**AI Resume Builder**](https://github.com/Yahmed99/AI-Resume-builder) — Implemented the GitHub API and unofficial LinkedIn API to retrieve user information and format it as context for ChatGPT to generate tailored resumes based on given job descriptions.  
+- 🔗[**AI Resume Builder**](https://github.com/Yahmed99/AI-Resume-builder) — Implemented the GitHub API and unofficial LinkedIn API to retrieve user information and format it as context for ChatGPT to generate tailored resumes based on given job descriptions.  
 
 ---
 
@@ -49,11 +49,11 @@ I’m currently a senior studying Computer Science at Queens College. I am inter
 
 - **Codepath Technical Interview Prep 101** — *Codepath*  
   - Completed a 10-week technical interview program with professional engineers, gaining hands-on experience in algorithms, mock interviews, and industry best practices.  
-  - [Certificate of Completion](/assets/Codepath.jpg)
+  - 🔗[Certificate of Completion](/assets/Codepath.jpg)
 
 - **Build Student Consultant** — *OpenAvenues Build Fellowship*  
   - Developed Python data models and modular APIs to calculate precise drone positions and speeds, ensuring efficient coverage and high-quality image collection.  
-  - [Certificate of Completion](/assets/TBF.jpg)
+  - 🔗[Certificate of Completion](/assets/TBF.jpg)
 
 ---
 
@@ -79,4 +79,4 @@ Below is an embedded view. If it doesn’t load, use the direct link.
 
 ## Contact Me
 
-- **Email:** [yousufa3994@gmail.com](mailto:yousufa3994@gmail.com)
+- **Email:** 🔗[yousufa3994@gmail.com](mailto:yousufa3994@gmail.com)
